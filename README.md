@@ -5,6 +5,6 @@ Welcome to the Arduino repository for beginners. Arduino is an open source proto
 
 Also, this repo will be updated in the future.
 
-You can reach out to me here: www.facebook.com/sutha064 - automatic!
+You can reach out to me here: www.facebook.com/sutha064
 
 Happy learning!
